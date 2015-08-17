@@ -2414,7 +2414,7 @@
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			
 			color: #fff;
 			display: inline-block;
 			opacity: 0;
@@ -2424,10 +2424,8 @@
 
 			#banner .inner header {
 				display: inline-block;
-				border-bottom: solid 2px;
-				border-top: solid 2px;
 				margin: 0 0 2em 0;
-				padding: 3px 0 3px 0;
+
 			}
 
 				#banner .inner header h2 {
