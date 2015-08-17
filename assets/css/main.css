@@ -2413,7 +2413,7 @@
 			-moz-animation-fill-mode: forwards;
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
-			animation-fill-mode: forwards;
+			animation-fill-mode: forwards
 
 			color: #fff;
 			display: inline-block;
@@ -3064,9 +3064,9 @@
 						top: 1.5em;
 					}
 
-				header p {
-					text-align: center;
-				}
+
+
+
 
 			footer.major {
 				padding-top: 0;
